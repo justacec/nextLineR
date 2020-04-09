@@ -1,0 +1,4 @@
+Name: Insert new blank line below current position
+Description: Inserts a new blank line below the current line and places the cursor at the beginning of the line.
+Binding: insertBlankLineUnder
+Interactive: false

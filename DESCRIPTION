@@ -1,0 +1,10 @@
+Package: nextLineR
+Type: Package
+Title: Insert new line of code below current line
+Version: 0.1.0
+Author: Justace Clutter
+Maintainer: Justace Clutter <justacec@gmail.com>
+Description: A simple addin which will insert a blank line below the current line and position the cursor at the beginning of the new line.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
